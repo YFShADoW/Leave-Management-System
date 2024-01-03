@@ -1,0 +1,12 @@
+S001||Yao Feng||Technical||Superior||YF03||YF2003
+S002||Chee Wei||Technical||Staff||CW03||CW2003
+S003||Xiao Ming||Technical||Staff||XM03||XM2003
+S004||Yi Ken||Technical||Staff||YK03||YK2003
+S005||Wei Sheng||Technical||Staff||WS03||WS2003
+S006||Yee Meng||Technical||Staff||YM03||1234
+S007||Adam||Management||Superior||ADAM03||ADAM2003
+S008||Guan Yan||Management||Staff||GY03||GY2003
+S009||Jay Lim||Management||Staff||JL03||JL2003
+S010||Qing Chen||Management||Staff||QC03||QC2003
+S011||Kalon||Management||Staff||Kalon03||Kalon2003
+S012||Yuan||Management||Staff||Yuan03||Yuan2003

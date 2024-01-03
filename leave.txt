@@ -1,0 +1,12 @@
+S001||Yao Feng||Technical||13||8||5||5||12
+S002||Chee Wei||Technical||16||8||3||2||12
+S003||Xiao Ming||Technical||16||8||1||5||12
+S004||Yi Ken||Technical||13||8||3||5||12
+S005||Wei Sheng||Technical||16||8||3||5||12
+S006||Yee Meng||Technical||16||8||3||5||12
+S007||Adam||Management||16||8||5||3||12
+S008||Guan Yan||Management||16||8||3||5||12
+S009||Jay Lim||Management||16||8||3||5||12
+S010||Qing Chen||Management||16||8||3||5||12
+S011||Kalon||Management||16||8||3||5||12
+S012||Yuan||Management||16||8||3||5||12

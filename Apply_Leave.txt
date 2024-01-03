@@ -1,0 +1,5 @@
+L0001||S004||Yi Ken||Technical||Personal Leave||01-03-2023||02-03-2023||2||Rejected
+L0002||S004||Yi Ken||Technical||Annual Leave||15-03-2023||17-03-2023||3||Approved
+L0003||S003||Xiao Ming||Technical||Emergency Leave||28-02-2023||01-03-2023||2||Approved
+L0004||S002||Chee Wei||Technical||Compassionate Leave||03-03-2023||05-03-2023||3||Approved
+L0005||S002||Chee Wei||Technical||Medical Leave||01-03-2023||01-03-2023||1||Pending

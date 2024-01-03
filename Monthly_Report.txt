@@ -1,0 +1,85 @@
+____________________ Monthly Report ____________________
+
+Department     : Technical
+Selected Month : MAR
+
+==========================================================================================
+
+======== Pending List ========
+
+_Leave ID_|_Staff ID_|_____________Name_____________|_____Leave Type_____|___Start Date___|____End Date____|_Day Number_|_______Status_______
+L0005     |S002      |Chee Wei                      |Medical Leave       |01-03-2023      |01-03-2023      |1           |Pending
+
+======== Approved List ========
+
+_Leave ID_|_Staff ID_|_____________Name_____________|_____Leave Type_____|___Start Date___|____End Date____|_Day Number_|_______Status_______
+L0002     |S004      |Yi Ken                        |Annual Leave        |15-03-2023      |17-03-2023      |3           |Approved
+L0004     |S002      |Chee Wei                      |Compassionate Leave |03-03-2023      |05-03-2023      |3           |Approved
+
+======== Rejected List ========
+
+_Leave ID_|_Staff ID_|_____________Name_____________|_____Leave Type_____|___Start Date___|____End Date____|_Day Number_|_______Status_______
+L0001     |S004      |Yi Ken                        |Personal Leave      |01-03-2023      |02-03-2023      |2           |Rejected
+
+==========================================================================================
+In This month, the total number of the leave pending : 1
+In This month, the total number of the leave approved : 2
+In This month, the total number of the leave rejected : 1
+
+==========================================================================================
+
+------------------------------------------------------------------------------------------
+Staff ID: S002
+Staff Name: Chee Wei
+Staff dept: Technical
+
+_Leave ID_|_Staff ID_|_____________Name_____________|_____Leave Type_____|___Start Date___|____End Date____|_Day Number_|_______Status_______
+L0004     |S002      |Chee Wei                      |Compassionate Leave |03-03-2023      |05-03-2023      |3           |Approved
+L0005     |S002      |Chee Wei                      |Medical Leave       |01-03-2023      |01-03-2023      |1           |Pending
+
+
+Number of times that Chee Wei applied for leave: 2
+
+------------------------------------------------------------------------------------------
+Staff ID: S003
+Staff Name: Xiao Ming
+Staff dept: Technical
+
+_Leave ID_|_Staff ID_|_____________Name_____________|_____Leave Type_____|___Start Date___|____End Date____|_Day Number_|_______Status_______
+
+
+Number of times that Xiao Ming applied for leave: 0
+
+------------------------------------------------------------------------------------------
+Staff ID: S004
+Staff Name: Yi Ken
+Staff dept: Technical
+
+_Leave ID_|_Staff ID_|_____________Name_____________|_____Leave Type_____|___Start Date___|____End Date____|_Day Number_|_______Status_______
+L0001     |S004      |Yi Ken                        |Personal Leave      |01-03-2023      |02-03-2023      |2           |Rejected
+L0002     |S004      |Yi Ken                        |Annual Leave        |15-03-2023      |17-03-2023      |3           |Approved
+
+
+Number of times that Yi Ken applied for leave: 2
+
+------------------------------------------------------------------------------------------
+Staff ID: S005
+Staff Name: Wei Sheng
+Staff dept: Technical
+
+_Leave ID_|_Staff ID_|_____________Name_____________|_____Leave Type_____|___Start Date___|____End Date____|_Day Number_|_______Status_______
+
+
+Number of times that Wei Sheng applied for leave: 0
+
+------------------------------------------------------------------------------------------
+Staff ID: S006
+Staff Name: Yee Meng
+Staff dept: Technical
+
+_Leave ID_|_Staff ID_|_____________Name_____________|_____Leave Type_____|___Start Date___|____End Date____|_Day Number_|_______Status_______
+
+
+Number of times that Yee Meng applied for leave: 0
+
+==========================================================================================
