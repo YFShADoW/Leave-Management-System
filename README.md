@@ -22,8 +22,8 @@
 4. Check the summary of leave information
 
 ## Leave Approver
-1.Approve or reject leave application(s)
-2.Can search a date and view the number of staff who applied leave on the specified date (this could provide more information on the approval of leave)
+1. Approve or reject leave application(s)
+2. Can search a date and view the number of staff who applied leave on the specified date (this could provide more information on the approval of leave)
 
 ---
 
